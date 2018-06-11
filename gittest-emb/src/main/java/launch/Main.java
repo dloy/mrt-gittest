@@ -26,7 +26,7 @@ import org.eclipse.jgit.api.StatusCommand;
 
  
 public class Main {
-    public static String branch = "master";
+    public static String branch = "mytest";
  
     public static void main(String[] args) throws Exception 
     {
